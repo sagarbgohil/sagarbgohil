@@ -23,18 +23,18 @@ const nickname_nanou = {
 ### <img src="https://media.giphy.com/media/Q5pH4UmOiQciITstXU/giphy.gif" width=50> Find Me Here...
 
 <p align="left">
-<a href="https://twitter.com/NanouuSymeon">
-  <img width="50px" src="https://image.flaticon.com/icons/png/512/1409/1409937.png" />
+<a href="[https://twitter.com/NanouuSymeon](https://twitter.com/SagarbGohil)">
+  Twitter
+ </a> &nbsp;
+<a href="[https://dribbble.com/nanouu](https://www.linkedin.com/in/gohilsagar/)">
+  Twitter
 </a> &nbsp;
-<a href="https://dribbble.com/nanouu">
-  <img width="50px" src="https://image.flaticon.com/icons/png/512/1532/1532541.png" />
-</a> &nbsp;
-<a href="https://codepen.io/antoniasymeonidou">
-  <img width="50px" src="https://image.flaticon.com/icons/png/512/2111/2111262.png" />
+<a href="https://github.com/sagarbgohil">
+  Github
 </a>
 </p>
 
 <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
-<div>Created by <a href="https://github.com/antoniasymeonidou">@Nanou</a></div>
+<div>Created by <a href="https://github.com/sagarbgohil">@sagar</a></div>
 
 
