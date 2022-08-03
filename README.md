@@ -23,11 +23,11 @@ const nickname_nanou = {
 ### <img src="https://media.giphy.com/media/Q5pH4UmOiQciITstXU/giphy.gif" width=50> Find Me Here...
 
 <p align="left">
-<a href="[https://twitter.com/NanouuSymeon](https://twitter.com/SagarbGohil)">
+<a href="https://twitter.com/SagarbGohil">
   Twitter
  </a> &nbsp;
-<a href="[https://dribbble.com/nanouu](https://www.linkedin.com/in/gohilsagar/)">
-  Twitter
+<a href="https://www.linkedin.com/in/gohilsagar/">
+  Linkedin
 </a> &nbsp;
 <a href="https://github.com/sagarbgohil">
   Github
