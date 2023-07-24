@@ -4,9 +4,9 @@
 
 ```javascript
 const nickname_sagar = {
-  my_introduction: "Computer Science Student",
+  my_introduction: "Software Engineer",
   my_character: "funny" | "brave",
-  my_languages: [ C/C++, Java, Python, Javascript, HTML, CSS, C# ],
+  my_languages: [ Javascript, Python, Java ],
 }
 ```
 ### <img src="https://media.giphy.com/media/E7cElIn0u8EryF4i1u/giphy.gif" width=50> I am...
