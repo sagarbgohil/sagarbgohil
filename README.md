@@ -3,7 +3,7 @@
 ### <img src="https://media.giphy.com/media/LRlblMDrxibqF42H44/giphy.gif" width="50"> Details about me...  
 
 ```javascript
-const nickname_sagar = {
+const sagar = {
   my_introduction: "Software Engineer",
   my_character: "funny" | "brave",
   my_languages: [ Javascript, Python, Java ],
