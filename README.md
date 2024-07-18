@@ -20,20 +20,6 @@ const sagar = {
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarbgohil&layout=compact&theme=vision-friendly-dark)](https://github.com/sagarbgohil/github-readme-stats)
 
-### <img src="https://media.giphy.com/media/Q5pH4UmOiQciITstXU/giphy.gif" width=50> Find Me Here...
-
-<p align="left">
-<a href="https://twitter.com/SagarbGohil">
-  Twitter
- </a> &nbsp;
-<a href="https://www.linkedin.com/in/gohilsagar/">
-  Linkedin
-</a> &nbsp;
-<a href="https://github.com/sagarbgohil">
-  Github
-</a>
-</p>
-
 <div>Created by <a href="https://github.com/sagarbgohil">@sagar</a></div>
 
 
