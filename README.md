@@ -19,11 +19,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sagarbgohil&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=sagarbgohil&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## Support Me
+### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/sagargohil"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+
+  <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/sagargohil"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+
 </ul>
