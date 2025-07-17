@@ -22,7 +22,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![](https://github-profile-trophy.vercel.app/?username=sagarbgohil&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## Languges
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=sagarbgohil&layout=compact&theme=transparent)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=sagarbgohil&layout=compact&theme=transparent)
 
 ### Support Me
 <a href="https://www.buymeacoffee.com/sagargohil"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
