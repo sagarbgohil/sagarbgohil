@@ -1,6 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sagar Gohil
 ===================================================================================================================================
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarbgohil&label=Profile%20views&color=0e75b6&style=flat" alt="sagarbgohil" /> </p>
+
 👋 **Hello! I'm a Software Engineer** with a passion for crafting efficient and scalable applications. My expertise spans across **NestJS, Next.js, Node.js, and Express.js**, allowing me to build dynamic web applications from the ground up.<br><br>I have a strong foundation in both **relational (PostgreSQL)** and **document-oriented (MongoDB)** databases, ensuring data is structured and accessible for any project. I'm also proficient in **AWS** services like **S3** and **Lambda**, utilizing cloud technologies for reliable and scalable deployments. <br><br>I thrive in environments that prioritize continuous integration and delivery, with hands-on experience in setting up **CI/CD pipelines** for seamless development workflows.<br><br>🚀 **Let's collaborate to turn ideas into reality!**<br>
 
 
@@ -18,6 +20,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sagarbgohil&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarbgohil" alt="sagarbgohil" /></a> </p>
 
 ### Support Me
 <a href="https://www.buymeacoffee.com/sagargohil"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
