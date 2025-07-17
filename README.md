@@ -21,7 +21,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sagarbgohil&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarbgohil" alt="sagarbgohil" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagarbgohil&show_icons=true&locale=en&layout=compact" alt="sagarbgohil" /></p>
 
 ### Support Me
 <a href="https://www.buymeacoffee.com/sagargohil"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
