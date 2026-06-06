@@ -93,8 +93,12 @@ I'm a **Software Engineer** passionate about crafting efficient, scalable applic
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagarbgohil&show_icons=true&theme=onedark&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sagarbgohil&layout=compact&theme=onedark&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sagarbgohil&theme=github_dark" height="180" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sagarbgohil&theme=github_dark" height="180" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagarbgohil&theme=github_dark" alt="Profile Details" />
 </p>
 
 <p align="center">
@@ -102,7 +106,7 @@ I'm a **Software Engineer** passionate about crafting efficient, scalable applic
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sagarbgohil&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sagarbgohil&theme=radical&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
