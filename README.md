@@ -105,10 +105,6 @@ I'm a **Software Engineer** passionate about crafting efficient, scalable applic
   <img src="https://streak-stats.demolab.com/?user=sagarbgohil&theme=onedark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sagarbgohil&theme=radical&margin-w=4" alt="GitHub Trophies" />
-</p>
-
 ---
 
 ## Connect with Me
