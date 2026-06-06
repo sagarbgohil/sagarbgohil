@@ -98,7 +98,7 @@ I'm a **Software Engineer** passionate about crafting efficient, scalable applic
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagarbgohil&theme=onedark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=sagarbgohil&theme=onedark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -110,6 +110,13 @@ I'm a **Software Engineer** passionate about crafting efficient, scalable applic
 ## Connect with Me
 
 <p align="left">
+  <a href="https://sagargohil.dev" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" alt="Website" />
+    </picture>
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/gohilsagar" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
