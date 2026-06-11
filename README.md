@@ -11,7 +11,7 @@
 
 ## About Me
 
-I'm a **Software Engineer** passionate about crafting efficient, scalable applications. I specialize in building full-stack web solutions across the entire lifecycle — from architecture to deployment.
+I'm a **Software Engineer** passionate about crafting efficient, scalable applications. I specialize in building full-stack web solutions across the entire lifecycle, from architecture to deployment.
 
 - **Backend:** NestJS, Node.js, Express.js, FastAPI, Flask, Go
 - **Frontend:** Next.js, React
